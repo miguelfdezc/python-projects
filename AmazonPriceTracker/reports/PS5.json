@@ -1,0 +1,107 @@
+{
+  "title": "PS5",
+  "date": "03/01/2021 19:20:31",
+  "best_item": {
+    "asin": "B07HKN92MZ",
+    "url": "http://www.amazon.de/dp/B07HKN92MZ",
+    "title": "WD Gaming Memory 4 TB Mobile External Hard Drive Black Blue for PS4 Compatible with PS4 Pro from Firmware 4.50 - WDBM1M0040BBK-WESN",
+    "seller": "Visit the Western Digital Store",
+    "price": 120.99
+  },
+  "currency": "\u20ac",
+  "filters": { "min": "275", "max": "650" },
+  "base_link": "http://www.amazon.de/",
+  "products": [
+    {
+      "asin": "B07HKN92MZ",
+      "url": "http://www.amazon.de/dp/B07HKN92MZ",
+      "title": "WD Gaming Memory 4 TB Mobile External Hard Drive Black Blue for PS4 Compatible with PS4 Pro from Firmware 4.50 - WDBM1M0040BBK-WESN",
+      "seller": "Visit the Western Digital Store",
+      "price": 120.99
+    },
+    {
+      "asin": "B07TTB3SR2",
+      "url": "http://www.amazon.de/dp/B07TTB3SR2",
+      "title": "ASTRO Gaming A50 Wireless Headset and Base Station",
+      "seller": "Brand: ASTRO Gaming",
+      "price": 249.0
+    },
+    {
+      "asin": "B07W6JB7N7",
+      "url": "http://www.amazon.de/dp/B07W6JB7N7",
+      "title": "Logitech G 923 Steering Wheel with Pedals for Playstation PS4 & PC - Black",
+      "seller": "Brand: Logitech G",
+      "price": 338.2
+    },
+    {
+      "asin": "B00YUIM2J0",
+      "url": "http://www.amazon.de/dp/B00YUIM2J0",
+      "title": "Logitech G Racing steering wheel",
+      "seller": "Brand: Logitech G",
+      "price": 276.0
+    },
+    {
+      "asin": "B0816Y6YG6",
+      "url": "http://www.amazon.de/dp/B0816Y6YG6",
+      "title": "Cybershoes Shoes for Walking in VR Games - Gaming Station Including Cyberchair and Cybercarpet - Virtual Reality",
+      "seller": "Visit the Cybershoes Store",
+      "price": 409.32
+    },
+    {
+      "asin": "B07ZKZ22HH",
+      "url": "http://www.amazon.de/dp/B07ZKZ22HH",
+      "title": "PlayStation VR2 MegaPack 3 (5 spiele) Moss + Astrobot + Everybody's Golf + Blood & Truth + VR Worlds + Twin Move Controllers + PS5 Kamera Adapter",
+      "seller": "Brand: Sony Playstation 4",
+      "price": 525.5
+    },
+    {
+      "asin": "B08MSWBX26",
+      "url": "http://www.amazon.de/dp/B08MSWBX26",
+      "title": "Sony Interactive Entertainment PS VR Mega Pack 3 inkl. PS VR-Headset / PS Camera / PS Camera-Adapter / 5 Spiele (Gutscheincode)",
+      "seller": "Brand: Sony Interactive Entertainment",
+      "price": 329.99
+    },
+    {
+      "asin": "B085PB4B6J",
+      "url": "http://www.amazon.de/dp/B085PB4B6J",
+      "title": "PlayStation 4 Pro - Konsole (1 TB, schwarz) PS Hits Naughty Dog Bundle",
+      "seller": "Brand: Sony Interactive Entertainment",
+      "price": 449.99
+    },
+    {
+      "asin": "B01LQF9UKS",
+      "url": "http://www.amazon.de/dp/B01LQF9UKS",
+      "title": "PlayStation 4 Pro - Konsole (1TB)",
+      "seller": "Brand: Sony Interactive Entertainment",
+      "price": 449.0
+    },
+    {
+      "asin": "B07JGCM9QM",
+      "url": "http://www.amazon.de/dp/B07JGCM9QM",
+      "title": "Logitech G Farming Simulator Bundle for heavy machinery (2nd generation), steering wheel controller for Farming Simulator 19 (or earlier) - steering wheel, gas and brake pedals, side console for PC / PS4",
+      "seller": "Brand: Logitech G",
+      "price": 135.0
+    },
+    {
+      "asin": "B07S6MWKFD",
+      "url": "http://www.amazon.de/dp/B07S6MWKFD",
+      "title": "CYBERPUNK 2077 Collectors Edition - (kostenloses Upgrade auf PS5) - [PlayStation 4]",
+      "seller": "Brand: BANDAI NAMCO Entertainment",
+      "price": 219.99
+    },
+    {
+      "asin": "B07WDCQ51Q",
+      "url": "http://www.amazon.de/dp/B07WDCQ51Q",
+      "title": "Biomutant Atomic Edition [PC]",
+      "seller": "Brand: THQ Nordic",
+      "price": 399.99
+    },
+    {
+      "asin": "B08MSV1CGZ",
+      "url": "http://www.amazon.de/dp/B08MSV1CGZ",
+      "title": "Sony Interactive Entertainment PS VR Starter Pack inkl. PS VR-Headset / PS Camera / PS Camera-Adapter / VR Worlds Gutscheincode",
+      "seller": "Brand: Sony Interactive Entertainment",
+      "price": 299.99
+    }
+  ]
+}

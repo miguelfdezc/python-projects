@@ -1,0 +1,58 @@
+{
+  "title": "PS4",
+  "date": "03/01/2021 19:13:38",
+  "best_item": {
+    "asin": "B07TTB3SR2",
+    "url": "http://www.amazon.de/dp/B07TTB3SR2",
+    "title": "ASTRO Gaming A50 Wireless Headset and Base Station",
+    "seller": "Brand: ASTRO Gaming",
+    "price": 249.0
+  },
+  "currency": "\u20ac",
+  "filters": { "min": "275", "max": "650" },
+  "base_link": "http://www.amazon.de/",
+  "products": [
+    {
+      "asin": "B085PB4B6J",
+      "url": "http://www.amazon.de/dp/B085PB4B6J",
+      "title": "PlayStation 4 Pro - Konsole (1 TB, schwarz) PS Hits Naughty Dog Bundle",
+      "seller": "Brand: Sony Interactive Entertainment",
+      "price": 449.99
+    },
+    {
+      "asin": "B07TTB3SR2",
+      "url": "http://www.amazon.de/dp/B07TTB3SR2",
+      "title": "ASTRO Gaming A50 Wireless Headset and Base Station",
+      "seller": "Brand: ASTRO Gaming",
+      "price": 249.0
+    },
+    {
+      "asin": "B07H6ZDL2B",
+      "url": "http://www.amazon.de/dp/B07H6ZDL2B",
+      "title": "PS4 Slim 1TB schwarz Playstation 4 - FIFA 19 + 2 Dualshock Controller 4",
+      "seller": "Brand: Sony Playstation 4",
+      "price": 459.0
+    },
+    {
+      "asin": "B0876HDPVX",
+      "url": "http://www.amazon.de/dp/B0876HDPVX",
+      "title": "PS4 Slim 1TB schwarz Playstation 4 Konsole + Minecraft \"Bedrock\"",
+      "seller": "Brand: Playstation 4",
+      "price": 419.9
+    },
+    {
+      "asin": "B08MSWBX26",
+      "url": "http://www.amazon.de/dp/B08MSWBX26",
+      "title": "Sony Interactive Entertainment PS VR Mega Pack 3 inkl. PS VR-Headset / PS Camera / PS Camera-Adapter / 5 Spiele (Gutscheincode)",
+      "seller": "Brand: Sony Interactive Entertainment",
+      "price": 329.99
+    },
+    {
+      "asin": "B07W7KFFFF",
+      "url": "http://www.amazon.de/dp/B07W7KFFFF",
+      "title": "Logitech G Racing steering wheel",
+      "seller": "Brand: Logitech G",
+      "price": 338.2
+    }
+  ]
+}
